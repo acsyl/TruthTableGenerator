@@ -38,8 +38,8 @@ function htmlchar(c,tv) {
 					case 'oz': return '0';
 			}
 			
-		case '~' : return '~';
-		case '&' : return '&amp;';
+		case '~' : return '¬';
+		case '&' : return '&and;';
 		case 'v' : return '&or;';
 		case '>' : return '&rarr;';
 		case '<>' : return '&harr;';
